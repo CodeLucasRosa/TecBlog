@@ -29,4 +29,4 @@ O design é simples, focado em uma boa apresentação de conteúdo textual.
 ## 🔗 Acesse o site
 
 Você pode visualizar o projeto aqui:  
-👉 [TecBlog - GitHub Pages](https://seulink.github.io/TecBlog/)
+👉 [TecBlog - GitHub Pages](https://codelucasrosa.github.io/TecBlog/)
